@@ -1,0 +1,80 @@
+/*TUCANO CSS */
+body
+{
+	Background: #EAE9E9;
+	color: #A7A7A6;
+	font-family: "Monaco", "Courier", monospace;
+	font-size: 14px;
+	min-width: 600px;
+}
+
+div#header
+{
+	margin: auto;
+	text-align: center;
+}
+
+h1.title
+{
+	color: #666;
+}
+
+h3.title
+{
+	color: #A7A7A6;
+}
+
+
+table.title
+{
+	color: #666;
+	font-size: 24px;
+}
+
+
+/* ASCIIBOX */
+div#asciibox
+{
+	width: 500px;
+	margin: 50px auto 50px auto;
+	font-size: 10px;
+	font-weight: bold;
+	text-align:center; 
+	width:99%; 
+	margin:auto;
+}
+
+#project-table
+{
+	font-size: 16px;
+	margin: 50px auto 20px auto;
+	text-align: left;
+	border-collapse: collapse;
+	width: 900px;
+}
+
+#project-table td
+{
+	padding: 9px 12px;
+	border-top: 1px solid #fff;
+}
+
+#project-table a, a:visited
+{
+	color: #000;
+}
+
+div#momix
+{
+	margin: auto;
+	background-image: url('../img/dubai.png');
+	background-repeat: no-repeat;
+	color: #FFF;
+	font-size: 10px;
+	padding: 20px;
+	width: 600px;
+	height: 440px;
+	border: 1px #000 solid;
+	text-align: left;
+	font-size: 12px;
+}
