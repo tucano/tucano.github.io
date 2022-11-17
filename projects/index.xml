@@ -8,14 +8,15 @@
       <url>https://tucano.github.io/img</url>
       <link>https://tucano.github.io/img</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tucano.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Nov 2022 17:01:21 +0100</lastBuildDate><atom:link href="https://tucano.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Projects</title>
       <link>https://tucano.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Nov 2022 17:01:21 +0100</pubDate>
       
       <guid>https://tucano.github.io/projects/</guid>
-      <description>Useless Machine was a mobile sandbox game (Unpublished) MTRandom an alternative Random library for Unity3d designed to generate uniform Pseudo-Random deviates flowFit a Bioconductor package to estimate proliferation in cell-tracking dye studies FancyGene was a tool to generate PDF and PNG images of genes/domains and include them in presentations and papers Splicy aka Gene Chip splice machine, was a tool to store and display original data relatives to single probes mapping over Exons.</description>
+      <description>personal projects</description>
     </item>
     
   </channel>
