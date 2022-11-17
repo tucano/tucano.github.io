@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tucano</title>
+    <link>http://tucano.github.io/</link>
+    <description>Recent content on Tucano</description>
+    <image>
+      <url>http://tucano.github.io/img</url>
+      <link>http://tucano.github.io/img</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://tucano.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://tucano.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tucano.github.io/papers/</guid>
+      <description>The BioMart community portal: an innovative alternative to large, centralized data repositories Smedley D et al, Nucleic Acids Res. 2015 Jul 1;43(W1):W589-98. flowFit: a Bioconductor package to estimate proliferation in cell-tracking dye studies Rambaldi D, Pece S, Di Fiore PP. Bioinformatics. 2014 Jul 15;30(14):2060-5. FancyGene: dynamic visualization of gene structures and protein domain architectures on genomic loci Rambaldi D, Ciccarelli FD. Bioinformatics. 2009 Sep 1;25(17):2281-2. Low duplicability and network fragility of cancer genes Rambaldi D, Giorgi FM, Capuani F, Ciliberto A, Ciccarelli FD.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://tucano.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tucano.github.io/projects/</guid>
+      <description>Useless Machine was a mobile sandbox game (Unpiblished) MTRandom an alternative Random library for Unity3d designed to generate uniform Pseudo-Random deviates flowFit a Bioconductor package to estimate proliferation in cell-tracking dye studies FancyGene was a tool to generate PDF and PNG images of genes/domains and include them in presentations and papers Splicy aka Gene Chip splice machine, was a tool to store and display original data relatives to single probes mapping over Exons.</description>
+    </item>
+    
+  </channel>
+</rss>

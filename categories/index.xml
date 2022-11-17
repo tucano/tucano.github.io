@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Tucano</title>
+    <link>http://tucano.github.io/categories/</link>
+    <description>Recent content in Categories on Tucano</description>
+    <image>
+      <url>http://tucano.github.io/img</url>
+      <link>http://tucano.github.io/img</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://tucano.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
