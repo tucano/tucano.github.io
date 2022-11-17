@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Tucano</title>
-    <link>http://tucano.github.io/projects/</link>
+    <link>https://tucano.github.io/projects/</link>
     <description>Recent content in Projects on Tucano</description>
     <image>
-      <url>http://tucano.github.io/img</url>
-      <link>http://tucano.github.io/img</link>
+      <url>https://tucano.github.io/img</url>
+      <link>https://tucano.github.io/img</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://tucano.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tucano.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://tucano.github.io/projects/</link>
+      <link>https://tucano.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://tucano.github.io/projects/</guid>
+      <guid>https://tucano.github.io/projects/</guid>
       <description>Useless Machine was a mobile sandbox game (Unpublished) MTRandom an alternative Random library for Unity3d designed to generate uniform Pseudo-Random deviates flowFit a Bioconductor package to estimate proliferation in cell-tracking dye studies FancyGene was a tool to generate PDF and PNG images of genes/domains and include them in presentations and papers Splicy aka Gene Chip splice machine, was a tool to store and display original data relatives to single probes mapping over Exons.</description>
     </item>
     
