@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Art on Tucano Profile Page</title>
+    <link>https://tucano.github.io/tags/art/</link>
+    <description>Recent content in Art on Tucano Profile Page</description>
+    <image>
+      <url>https://tucano.github.io/img</url>
+      <link>https://tucano.github.io/img</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://tucano.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playgene</title>
+      <link>https://tucano.github.io/projects/playgene/</link>
+      <pubDate>Sat, 16 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/projects/playgene/</guid>
+      <description>Flash app able to convert DNA strings into music</description>
+    </item>
+    
+    <item>
+      <title>Resistenziade</title>
+      <link>https://tucano.github.io/projects/resistenziade/</link>
+      <pubDate>Sat, 16 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/projects/resistenziade/</guid>
+      <description>Events experienced over the years 1943-1945</description>
+    </item>
+    
+    <item>
+      <title>The Incredible Machine</title>
+      <link>https://tucano.github.io/projects/incrediblemachine/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/projects/incrediblemachine/</guid>
+      <description>The Incredible Machine was a Rube Goldberg machine with a Lego&amp;amp;trade; mindstorm elevator</description>
+    </item>
+    
+  </channel>
+</rss>

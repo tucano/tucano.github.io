@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on Tucano Profile Page</title>
+    <link>https://tucano.github.io/docs/</link>
+    <description>Recent content in Docs on Tucano Profile Page</description>
+    <image>
+      <url>https://tucano.github.io/img</url>
+      <link>https://tucano.github.io/img</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Nov 2022 10:29:43 +0100</lastBuildDate><atom:link href="https://tucano.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Variables | Front Matter</title>
+      <link>https://tucano.github.io/docs/papermod-variables/</link>
+      <pubDate>Mon, 21 Nov 2022 10:29:43 +0100</pubDate>
+      
+      <guid>https://tucano.github.io/docs/papermod-variables/</guid>
+      <description>List of Front Matter variables used by PaperMod</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://tucano.github.io/docs/about/</link>
+      <pubDate>Fri, 18 Nov 2022 12:09:53 +0100</pubDate>
+      
+      <guid>https://tucano.github.io/docs/about/</guid>
+      <description>Davide Tucano Rambaldi</description>
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>https://tucano.github.io/docs/icons/</link>
+      <pubDate>Fri, 18 Nov 2022 20:34:07 +0100</pubDate>
+      
+      <guid>https://tucano.github.io/docs/icons/</guid>
+      <description>Icons test</description>
+    </item>
+    
+    <item>
+      <title>Asciiart Support</title>
+      <link>https://tucano.github.io/docs/asciiart-support/</link>
+      <pubDate>Fri, 18 Nov 2022 15:23:18 +0100</pubDate>
+      
+      <guid>https://tucano.github.io/docs/asciiart-support/</guid>
+      <description>Test Asciiart aupport</description>
+    </item>
+    
+    <item>
+      <title>Svg Support</title>
+      <link>https://tucano.github.io/docs/svg-support/</link>
+      <pubDate>Fri, 18 Nov 2022 15:04:00 +0100</pubDate>
+      
+      <guid>https://tucano.github.io/docs/svg-support/</guid>
+      <description>html inline with svg</description>
+    </item>
+    
+    <item>
+      <title>Markdown syntax</title>
+      <link>https://tucano.github.io/docs/markdown-syntax/</link>
+      <pubDate>Fri, 18 Nov 2022 12:09:53 +0100</pubDate>
+      
+      <guid>https://tucano.github.io/docs/markdown-syntax/</guid>
+      <description>sample of basic Markdown syntax</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://tucano.github.io/docs/rich-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/docs/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    
+  </channel>
+</rss>

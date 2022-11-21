@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paper on Tucano Profile Page</title>
+    <link>https://tucano.github.io/tags/paper/</link>
+    <description>Recent content in Paper on Tucano Profile Page</description>
+    <image>
+      <url>https://tucano.github.io/img</url>
+      <link>https://tucano.github.io/img</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://tucano.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FlowFit</title>
+      <link>https://tucano.github.io/papers/flowfit/</link>
+      <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/papers/flowfit/</guid>
+      <description>FLowFit Paper</description>
+    </item>
+    
+    <item>
+      <title>Fancygene</title>
+      <link>https://tucano.github.io/papers/fancygene/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/papers/fancygene/</guid>
+      <description>Fancygene paper</description>
+    </item>
+    
+    <item>
+      <title>Low duplicability and network fragility of cancer genes</title>
+      <link>https://tucano.github.io/papers/networks/</link>
+      <pubDate>Sun, 24 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/papers/networks/</guid>
+      <description>PhD Research final paper</description>
+    </item>
+    
+    <item>
+      <title>Splicy</title>
+      <link>https://tucano.github.io/papers/splicy/</link>
+      <pubDate>Thu, 08 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/papers/splicy/</guid>
+      <description>A web-based tool for the prediction of possible alternative splicing event</description>
+    </item>
+    
+    <item>
+      <title>Nemafootprinter</title>
+      <link>https://tucano.github.io/papers/nemafootprinter/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/papers/nemafootprinter/</guid>
+      <description>NemaFootPrinter: a web based software for the identification of conserved non-coding genome sequence regions between C. elegans and C. briggsae</description>
+    </item>
+    
+    <item>
+      <title>Other pubblications (collaborations)</title>
+      <link>https://tucano.github.io/papers/others/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://tucano.github.io/papers/others/</guid>
+      <description>Other publications - collaborations</description>
+    </item>
+    
+  </channel>
+</rss>
